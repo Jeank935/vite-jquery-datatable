@@ -1,0 +1,86 @@
+[
+  {
+    "marca": "Chevrolet",
+    "modelo": "Aveo Family",
+    "anio": 2018,
+    "precio": 12500,
+    "provincia": "Pichincha"
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Picanto",
+    "anio": 2021,
+    "precio": 14000,
+    "provincia": "Guayas"
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Tucson",
+    "anio": 2019,
+    "precio": 22000,
+    "provincia": "Azuay"
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Hilux",
+    "anio": 2022,
+    "precio": 35000,
+    "provincia": "Manabí"
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Frontier",
+    "anio": 2020,
+    "precio": 28000,
+    "provincia": "Tungurahua"
+  },
+  {
+    "marca": "Great Wall",
+    "modelo": "Haval H6",
+    "anio": 2023,
+    "precio": 26500,
+    "provincia": "Pichincha"
+  },
+  {
+    "marca": "Chery",
+    "modelo": "Tiggo 4 Pro",
+    "anio": 2022,
+    "precio": 19000,
+    "provincia": "Guayas"
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Duster",
+    "anio": 2021,
+    "precio": 18500,
+    "provincia": "Imbabura"
+  },
+  {
+    "marca": "Ford",
+    "modelo": "F-150",
+    "anio": 2019,
+    "precio": 42000,
+    "provincia": "Pichincha"
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "anio": 2020,
+    "precio": 29000,
+    "provincia": "Azuay"
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "anio": 2018,
+    "precio": 15500,
+    "provincia": "Loja"
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Vitara",
+    "anio": 2021,
+    "precio": 21000,
+    "provincia": "El Oro"
+  }
+]
